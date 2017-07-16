@@ -1,1 +1,1 @@
-web: gunicorn myblog.wsgi
+web: gunicorn django_teaching.wsgi
